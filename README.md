@@ -289,7 +289,7 @@ git branch -m master  # Rename the current branch to master
 git push -f origin master  # Force push master branch to github
 git gc --aggressive --prune=all     # remove the old files
 ```
-
+  
 ### 六、赞赏
 
 如果你觉得该教程写得还可以且有帮到你的话，欢迎给我打赏一杯奶茶~~
